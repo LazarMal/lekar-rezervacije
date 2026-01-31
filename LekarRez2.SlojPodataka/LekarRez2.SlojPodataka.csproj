@@ -48,6 +48,10 @@
     <Compile Include="Interfejsi\IRezervacijaRepozitorijum.cs" />
     <Compile Include="ProcedureIPogledi\ProcedureIPogledi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repozitorijumi\FIlterRepozitorijum.cs" />
+    <Compile Include="Repozitorijumi\KorisnikRepozitorijum.cs" />
+    <Compile Include="Repozitorijumi\RezervacijaRepozitorijum.cs" />
+    <Compile Include="Repozitorijumi\UslugaRepozitorijum.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LekarRez2.Modeli\LekarRez2.Modeli.csproj">
