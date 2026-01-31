@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BazaKonekcija.cs" />
+    <Compile Include="DbPomocnik.cs" />
+    <Compile Include="Interfejsi\IKorisnikRepozitorijum.cs" />
+    <Compile Include="Interfejsi\IRezervacijaRepozitorijum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
