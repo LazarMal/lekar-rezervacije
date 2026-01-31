@@ -46,6 +46,7 @@
     <Compile Include="DbPomocnik.cs" />
     <Compile Include="Interfejsi\IKorisnikRepozitorijum.cs" />
     <Compile Include="Interfejsi\IRezervacijaRepozitorijum.cs" />
+    <Compile Include="ProcedureIPogledi\ProcedureIPogledi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
