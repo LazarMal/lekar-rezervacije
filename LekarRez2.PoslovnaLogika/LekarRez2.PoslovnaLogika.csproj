@@ -44,6 +44,11 @@
     <Compile Include="Izuzeci\PoslovnoPraviloIzuzetak.cs" />
     <Compile Include="PravilaSistema\PravilaLogike.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servisi\FilterServis.cs" />
+    <Compile Include="Servisi\ServisCenovnik.cs" />
+    <Compile Include="Servisi\ServisKorisnik.cs" />
+    <Compile Include="Servisi\ServisRezervacija.cs" />
+    <Compile Include="Servisi\ServisUsluga.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LekarRez2.Modeli\LekarRez2.Modeli.csproj">
