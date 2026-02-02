@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LekarRez2.Modeli", "LekarRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LekarRez2.SlojPodataka", "LekarRez2.SlojPodataka\LekarRez2.SlojPodataka.csproj", "{0CEEC365-E3BF-4480-9EE4-66B523B227BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LekarRez2.PoslovnaLogika", "LekarRez2.PoslovnaLogika\LekarRez2.PoslovnaLogika.csproj", "{C41DD330-A756-4E6E-8867-45414DF2D930}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0CEEC365-E3BF-4480-9EE4-66B523B227BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CEEC365-E3BF-4480-9EE4-66B523B227BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CEEC365-E3BF-4480-9EE4-66B523B227BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41DD330-A756-4E6E-8867-45414DF2D930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41DD330-A756-4E6E-8867-45414DF2D930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41DD330-A756-4E6E-8867-45414DF2D930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41DD330-A756-4E6E-8867-45414DF2D930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
